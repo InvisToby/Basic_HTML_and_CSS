@@ -1,0 +1,21 @@
+p{
+		color: #000080;
+		text-align: center;
+		background-color: #F0FFFF;
+		font-size: medium;
+		font-weight: bold;
+	
+}
+h1{
+		color: black;
+		text-align: center;
+		text-shadow: 2px 2px #ff0000;
+		font-weight: bold;
+}
+h2{
+		color: black;
+		text-align: center;
+		font-weight: bold;
+}
+
+/*can create a new class to pop in html eg .class_A{font style etc} in html write as <h1 class="class_A"> etc all while linked to stylesheet*/
